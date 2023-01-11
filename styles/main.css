@@ -10,15 +10,14 @@ body {
 }
 
 .container {
-    width: 320px;
-    height: 500px;
+    max-width: 320px;
     background-color: white;
     border: 1px solid white;
     border-radius: 15px;
 }
 
 .container img {
-    max-width: 290px;
+    max-width: 90%;
     padding: 15px;
     background-color: transparent;
     border-radius: 25px;
