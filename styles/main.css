@@ -2,6 +2,17 @@
     background-color: #d5e1ef;
 }
 
+.container {
+    width: 325px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.container img {
+    max-width: 290px;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
